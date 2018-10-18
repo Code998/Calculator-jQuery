@@ -1,0 +1,33 @@
+/*button.google{
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color: white;
+	border: 1px solid red;
+	color: red;
+}
+
+.fa-google-plus{
+	border-right: 1px solid red;
+	padding: 3px;
+	color: white;
+}
+
+button.google:hover{
+	background-color: red;
+	color: white;
+}
+
+.fa-google-plus:hover{
+	color: white;
+}*/
+.box{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+}
+
+.red{
+	color: red;
+}
+
+attr, this, 
